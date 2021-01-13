@@ -1,6 +1,10 @@
 # SUTD-Social
 50.001 1D Android App
 
+ - Project Demo: `50.001 Group Video 03-04.mp4`
+ - Code Write-up: `50.001 Group Report 03-04.md`
+ - Project Poster: `50.001 Group Poster 03-04.pdf`
+
 ## Program Structure
 
 Classes name are the same just without spaces
